@@ -1,4 +1,4 @@
-nav, footer, header, aside{
+nav, footer, header, aside, .categorias{
 max-width: 98%;
 margin: auto;
 text-align: center;
@@ -73,4 +73,21 @@ IMG.imgcenter{
     margin-left: auto;
     margin-right: auto;
     border:none;
+}
+#categoria{
+    width: 70%;
+    height: auto; overflow: hidden;
+    border: 0,5em solid;
+    margin-top: 10px;
+    background-color: burlywood;
+}
+.uno{
+    width: 32%;
+    height: 370px;
+    border: 1px solid;
+    float: left;
+}
+.dos{
+    margin-left: 12px;
+    margin-right: 10px;
 }
