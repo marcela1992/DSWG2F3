@@ -75,16 +75,16 @@ IMG.imgcenter{
     border:none;
 }
 #categoria{
-    width: 70%;
+    width: 100%;
     height: auto; overflow: hidden;
-    border: 0,5em solid;
-    margin-top: 10px;
+    border: 0,8em solid;
+    margin-top: 12px;
     background-color: burlywood;
 }
 .uno{
     width: 32%;
-    height: 370px;
-    border: 1px solid;
+    height: 500px;
+    border: 2px solid;
     float: left;
 }
 .dos{
